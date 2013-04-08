@@ -6,12 +6,14 @@
 ## <a name='TOC'>Table of Contents</a>
 
   1. [HTML](#html)
-  1. [CSS](#objects)
-  1. [Javascript](#arrays)
+  2. [CSS](#css)
+  3. [Javascript](#javascript)
+  4. [Typo3] (#typo3)
+  5. [Lizenz] (#lizenz)
 
 ## <a name='html'>HTML</a>
 
-  - **Primitives**: When you access a primitive type you work directly on its value
+  - **Doctype**: HTML-Dokumente werden mit dem HTML5 Doctype erstellt
 
     + `string`
     + `number`
@@ -20,17 +22,20 @@
     + `undefined`
 
     ```javascript
-    var foo = 1,
-        bar = foo;
-
-    bar = 9;
-
-    console.log(foo, bar); // => 1, 9
+    <!DOCTYPE html>
+    <html lang="de" dir="ltr">
+    <head></head>
+    <body></body>
+    </html>
     ```
 
+## <a name='css'>CSS</a>
 
+## <a name='javascript'>Javascript</a>
 
-## <a name='license'>License</a>
+## <a name='typo3'>Typo3</a>
+
+## <a name='lizenz'>Lizenz</a>
 
 (The MIT License)
 
