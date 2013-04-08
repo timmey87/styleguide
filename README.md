@@ -1,9 +1,7 @@
 # Style Guide for HTML / CSS / JS {
 
-*A mostly reasonable approach to JavaScript*
 
-
-## <a name='TOC'>Table of Contents</a>
+## <a name='TOC'>Inhaltverzeichnis</a>
 
   1. [HTML](#html)
   2. [CSS](#css)
